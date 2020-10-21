@@ -1,7 +1,6 @@
 from DealerClass import Dealer
 from PlayerClass import Player
 
-    
 
 if __name__ == '__main__':
     dealer = Dealer()
